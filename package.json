@@ -1,0 +1,30 @@
+{
+  "name": "learn-vue",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^10.9.0",
+    "axios": "^1.6.8",
+    "flowbite": "^2.3.0",
+    "flowbite-vue": "^0.1.4",
+    "json-server": "^1.0.0-beta.0",
+    "vue": "^3.4.21",
+    "vue-datetime-js": "^1.2.2",
+    "vue-router": "^4.3.2",
+    "vue3-carousel": "^0.3.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^0.0.0-insiders.f1f419a",
+    "vite": "^5.2.8",
+    "vue-concise-slider": "^4.2.5"
+  }
+}
